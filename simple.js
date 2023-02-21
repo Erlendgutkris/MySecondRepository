@@ -1,1 +1,1 @@
-console.log("This was written on GitHub");
+console.log("New commits from the second brach youhu");
