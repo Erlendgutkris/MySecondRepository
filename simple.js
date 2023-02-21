@@ -1,1 +1,1 @@
-console.log("This was written in VS Code");
+console.log("This was written in GitHub");
