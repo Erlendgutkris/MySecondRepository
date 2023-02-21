@@ -1,1 +1,1 @@
-console.log("This was written on GitHub");
+console.log("This is also a tiiiiieeeeeest wuhu");
